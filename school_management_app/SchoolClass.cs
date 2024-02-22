@@ -1,28 +1,18 @@
 using System;
 
-class SchoolClass
+public class SchoolClass
 {
-	private string _className;
-	private Teacher _classTeacher;
+    private string _className;
+    private Teacher _classTeacher;
 
-	public SchoolClass(string className)
-	{
-		_className = className;
-		_classTeacher = null;
-	}
+    public SchoolClass(string className)
+    {
+        _className = className;
+        _classTeacher = null;
+    }
 
-	public string GetClassName()
-	{
-		return _className;
-	}
-
-	public Teacher GetClassTeacher()
-	{
-		return _classTeacher;
-	}
-
-	public void SetClassTeacher(Teacher teacher)
-	{
-		_classTeacher = teacher;
-	}
+    public string GetClassName() { return _className; }
+    public Teacher GetClassTeacher() { return _classTeacher; }
+    public void SetClassTeacher(Teacher teacher) { _classTeacher = teacher; }
 }
+

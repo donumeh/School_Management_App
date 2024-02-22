@@ -1,0 +1,15 @@
+/home/akecam/Desktop/school_management_app/school_management_app/bin/Debug/net8.0/school_management_app
+/home/akecam/Desktop/school_management_app/school_management_app/bin/Debug/net8.0/school_management_app.deps.json
+/home/akecam/Desktop/school_management_app/school_management_app/bin/Debug/net8.0/school_management_app.runtimeconfig.json
+/home/akecam/Desktop/school_management_app/school_management_app/bin/Debug/net8.0/school_management_app.dll
+/home/akecam/Desktop/school_management_app/school_management_app/bin/Debug/net8.0/school_management_app.pdb
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.GeneratedMSBuildEditorConfig.editorconfig
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.AssemblyInfoInputs.cache
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.AssemblyInfo.cs
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.csproj.CoreCompileInputs.cache
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.sourcelink.json
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.dll
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/refint/school_management_app.dll
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.pdb
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/school_management_app.genruntimeconfig.cache
+/home/akecam/Desktop/school_management_app/school_management_app/obj/Debug/net8.0/ref/school_management_app.dll

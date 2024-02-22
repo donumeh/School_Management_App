@@ -1,7 +1,8 @@
 using System;
 
-class Subject
+public class Subject
 {
-	private SchoolClass _schoolClass;
-	private string _name;
+    private SchoolClass _schoolClass;
+    private string _name;
 }
+
